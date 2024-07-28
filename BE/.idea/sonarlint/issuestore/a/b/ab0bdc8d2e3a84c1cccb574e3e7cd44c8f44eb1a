@@ -1,0 +1,10 @@
+
+[	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(„óøĞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+w
+java:S3305"\Inject this field value directly into "authenticationManager", the only method that uses it.(Ôû—¡øÿÿÿÿ
+L
+java:S1611""6Remove the parentheses around the "requests" parameter(¢ÌÀÈ
+‚
+java:S1130,"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(„óøĞ
